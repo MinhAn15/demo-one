@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T04:20:28.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VXyKpbWKfhVP-HbYPK-r" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T04:26:25.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KPNcWcxcPvkQqkrpfz6o" version="20.8.18" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2905" dy="2022" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3531,7 +3531,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PLLk7uIgbC0o7PBWEEz1-124" value="RETURNED GOODS LIST" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;labelBackgroundColor=none;rounded=1;swimlaneLine=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="PLLk7uIgbC0o7PBWEEz1-124" value="RETURNED LIST" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;labelBackgroundColor=none;rounded=1;swimlaneLine=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1476" y="1825" width="268" height="210" as="geometry" />
         </mxCell>
         <mxCell id="PLLk7uIgbC0o7PBWEEz1-125" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="PLLk7uIgbC0o7PBWEEz1-124" vertex="1">
@@ -4073,6 +4073,12 @@
           <mxGeometry x="701" y="1805" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A7V6cBfqFDh4ggQu3gW3-19" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;stokeWidth=1;dashed=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;" vertex="1" connectable="0" parent="A7V6cBfqFDh4ggQu3gW3-18">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A7V6cBfqFDh4ggQu3gW3-29" value="NVARCHAR(10)" style="shape=partialRectangle;fillColor=none;align=left;verticalAlign=middle;strokeColor=none;spacingLeft=34;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1602" y="2006" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A7V6cBfqFDh4ggQu3gW3-30" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;stokeWidth=1;dashed=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;" vertex="1" connectable="0" parent="A7V6cBfqFDh4ggQu3gW3-29">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
       </root>
